@@ -1,0 +1,1022 @@
+{
+  "movies": [
+    {
+      "name": "Star Wars: Episode I - The Phantom Menace",
+      "slug": "starwars1",
+      "image": "movie1.jpeg",
+      "id": 1,
+      "description": "Two Jedi escape a hostile blockade to find allies and come across a young boy who may bring balance to the Force, but the long dormant Sith resurface to claim their original glory.",
+      "time": "2h 16m",
+      "year": "1999",
+      "score": "7.5",
+      "casts": [
+        {
+          "name": "Ewan McGregor",
+          "slug": "ewan",
+          "image": "Ewan-Headshot.jpg",
+          "character": "Obi-Wan Kenobi",
+          "birthdate": "March 31, 1971",
+          "height": "1.77m",
+          "bio": "Ewan Gordon McGregor was born on March 31, 1971 in Perth, Perthshire, Scotland, to Carol Diane (Lawson) and James Charles McGregor, both teachers. His uncle is actor Denis Lawson. He was raised in Crieff. At age 16, he left Morrison Academy to join the Perth Repertory Theatre. His parents encouraged him to leave school and pursue his acting goals rather than be unhappy. McGregor studied drama for a year at Kirkcaldly in Fife, then enrolled at London's Guildhall School of Music and Drama for a three-year course. He studied alongside Daniel Craig and Alistair McGowan, among others, and left right before graduating after snagging the role of Private Mick Hopper in Dennis Potter's six-part Channel 4 series Lipstick on Your Collar (1993). His first notable role was that of Alex Law in Shallow Grave (1994), directed by Danny Boyle, written by John Hodge and produced by Andrew Macdonald. This was followed by The Pillow Book (1995) and Trainspotting (1996), the latter of which brought him to the public's attention."
+        },
+        {
+          "name": "Natalie Portman",
+          "slug": "natalie",
+          "image": "edPU5HxncLWa1YkgRPNkSd68ONG.webp",
+          "character": "Queen Amidala",
+          "birthdate": "June 9, 1981",
+          "height": "1.60m",
+          "bio": "Natalie Portman is an Israeli-American actress who began her career as a child actress in the film Léon: The Professional (1994). She was born on June 9, 1981, in Jerusalem, Israel. Over the years, she has received multiple awards, including an Academy Award and two Golden Globe Awards, for her work in film and has become known for her performances in roles ranging from Star Wars to Black Swan."
+        }
+        
+      ],
+      "comments": [
+        {
+          "title": "This scapegoat of a movie definitely needs more appreciation.",
+          "description": "I loved this movie as a kid. I still love it at age 21. Sure, it can be a bit sloppy at times, and it switches from plot a to plot b constantly. The stereotypes can be jarring at times. But you know what, it is still brilliant. The characters are likable. Even jar jar is not that bad. The acting is OK. Not great, but OK. The hate seems to stem from old trilogy fans, not knowing that this film was merely trying to be something different. Yes, if you want a film that feels like the old trilogy, this is not for you. But if you are looking for a fast-paced, lighthearted sci-fi action movie with one or two smart scenes, good scenery, and interesting alien designs, then this is for you."
+        },
+        {
+          "title": "Beautiful Opening to a Beautiful Saga!!",
+          "description": "Star Wars: Episode I - The Phantom Menace, is a beautiful opening to perhaps one of the most beautiful space sagas of all-time!! This was George Lucas' attempt to set the stage, and place the characters that would eventually lead to the characters that we grew to know and love in the late 1970's and early 1980's. Now expectations for this film were EXTREMELY high when it was coming out in early 1999, and not everyone liked this film but this reviewer was not one of those people. I was one of the people that loved it. For the most part, Lucas was given a blank check by Twentieth Century Fox to make this film and if you are to watch it again and just take in the landscapers, settings, costumes, technology, you will see the grand vision that Lucas had behind The Phantom Menace."
+        }
+      ]
+    },
+    {
+      "name": "Star Wars: Episode II - Attack of the Clones",
+      "slug": "starwars2",
+      "image": "movie2.jpg",
+      "id": 2,
+      "description": "Jedi Knight Anakin Skywalker and Padmé Amidala fall in love, but a conspiracy to assassinate her puts them on the run from the Senate, uncovering a secret war in the galaxy.",
+      "time": "2h 22m",
+      "year": "2002",
+      "score": "6.5",
+      "casts": [
+        {
+          "name": "Hayden Christensen",
+          "slug": "hayden",
+          "image": "actor1.jpg",
+          "character": "Anakin Skywalker",
+          "birthdate": "April 19, 1981",
+          "height": "1.83m",
+          "bio": "Hayden Christensen is a Canadian actor, best known for portraying Anakin Skywalker in Star Wars: Episode II and Episode III. He made his film debut in 1994 and starred in several movies before becoming internationally famous."
+        },
+        {
+          "name": "Natalie Portman",
+          "slug": "natalie",
+          "image": "movie3.jpg",
+          "character": "Padmé Amidala",
+          "birthdate": "June 9, 1981",
+          "height": "1.60m",
+          "bio": "Natalie Portman is an Israeli-American actress who began her career as a child actress in the film Léon: The Professional (1994). She has won numerous awards and is known for her roles in both dramatic and science fiction films."
+        }
+      ],
+      "comments": [
+        {
+          "title": "A more mature Star Wars movie.",
+          "description": "The sequel improves on its predecessor with stronger performances and a more mature storyline. The love story between Anakin and Padmé adds depth, and the world-building is impressive. Some of the CGI is a bit much, but the action is intense."
+        }
+       
+      ]
+    },
+    {
+      "name": "Star Wars: Episode III - Revenge of the Sith",
+      "slug": "starwars3",
+      "image": "movie3.jpg",
+      "id": 3,
+      "description": "As the Clone Wars near their end, Jedi Knight Anakin Skywalker makes a dangerous alliance with the Sith Lord Emperor Palpatine and becomes Darth Vader, leading to the fall of the Republic.",
+      "time": "2h 20m",
+      "year": "2005",
+      "score": "8.0",
+      "casts": [
+        [
+          {
+            "name": "Ewan McGregor",
+            "slug": "ewan",
+            "image": "movie2.jpg",
+            "character": "Obi-Wan Kenobi",
+            "birthdate": "March 31, 1971",
+            "height": "1.77m",
+            "bio": "Ewan McGregor is a Scottish actor renowned for his work in films such as Trainspotting and the Star Wars prequel trilogy. He is known for his versatility in both independent films and major blockbusters."
+          },
+          {
+            "name": "Hayden Christensen",
+            "slug": "hayden",
+            "image": "actor1.jpg",
+            "character": "Anakin Skywalker / Darth Vader",
+            "birthdate": "April 19, 1981",
+            "height": "1.83m",
+            "bio": "Hayden Christensen rose to fame for his role as Anakin Skywalker in Star Wars Episodes II and III. His portrayal of the tragic fall of Anakin to the dark side has been both praised and criticized."
+          },
+          {
+            "name": "Natalie Portman",
+            "slug": "natalie",
+            "image": "actor2.jpg",
+            "character": "Padmé Amidala",
+            "birthdate": "June 9, 1981",
+            "height": "1.60m",
+            "bio": "Natalie Portman is an Israeli-American actress who began her career as a child actress in the film Léon: The Professional (1994). She has won numerous awards and is known for her roles in both dramatic and science fiction films."
+          },
+          {
+            "name": "Liam Neeson",
+            "slug": "liam",
+            "image": "actor3.jpg",
+            "character": "Qui-Gon Jinn",
+            "birthdate": "June 7, 1952",
+            "height": "1.93m",
+            "bio": "Liam Neeson is an Irish actor best known for his roles in Schindler's List, Taken, and the Star Wars prequel trilogy. He has been nominated for multiple Academy Awards and is renowned for his commanding presence and deep voice."
+          },
+          {
+            "name": "Samuel L. Jackson",
+            "slug": "samuel",
+            "image": "actor4.jpg",
+            "character": "Mace Windu",
+            "birthdate": "December 21, 1948",
+            "height": "1.92m",
+            "bio": "Samuel L. Jackson is an American actor and film producer, known for his roles in iconic films such as Pulp Fiction, the Marvel Cinematic Universe, and Star Wars. He is one of the highest-grossing actors of all time."
+          }
+        ]
+        
+      ],
+    "comments": [
+  {
+    "title": "A powerful and emotional finale.",
+    "description": "This film is the tragic ending to Anakin Skywalker's journey, and it hits all the right emotional notes. The visuals are stunning, and the performances, especially from Hayden Christensen, really sell the fall of a hero."
+  },
+  {
+    "title": "A perfect conclusion to the prequels.",
+    "description": "Revenge of the Sith ties up the prequel trilogy in a satisfying way, with epic battles, strong character development, and the ultimate transformation of Anakin into Darth Vader. The action scenes are top-notch!"
+  },
+  {
+    "title": "A dark and gripping tale.",
+    "description": "Revenge of the Sith is an intense film that delves deeply into Anakin’s transformation and the rise of the Empire. The emotional weight of the story is carried through powerful performances and unforgettable moments."
+  }
+]
+
+    },
+    {
+      "name": "Star Wars: Episode IV - A New Hope",
+      "slug": "starwars4",
+      "image": "movie4.jpg",
+      "id": 4,
+      "description": "The fate of the galaxy rests in the hands of Luke Skywalker, a young farm boy who joins the Rebel Alliance to destroy the Death Star and stop the evil Empire.",
+      "time": "2h 1m",
+      "year": "1977",
+      "score": "8.6",
+      "casts": [
+        {
+          "name": "Mark Hamill",
+          "slug": "mark",
+          "image": "actor2.jpg",
+          "character": "Luke Skywalker",
+          "birthdate": "September 25, 1951",
+          "height": "1.75m",
+          "bio": "Mark Hamill is an American actor best known for his portrayal of Luke Skywalker in the Star Wars franchise. Hamill has also voiced the Joker in animated Batman series and films."
+        },
+        {
+          "name": "Harrison Ford",
+          "slug": "harrison",
+          "image": "actor3.jpg",
+          "character": "Han Solo",
+          "birthdate": "July 13, 1942",
+          "height": "1.85m",
+          "bio": "Harrison Ford is an American actor and producer, famous for his roles in Star Wars, Indiana Jones, and Blade Runner. He is regarded as one of the greatest action stars in film history."
+        },
+        {
+          "name": "Carrie Fisher",
+          "slug": "carrie",
+          "image": "actor4.jpg",
+          "character": "Princess Leia",
+          "birthdate": "October 21, 1956",
+          "height": "1.55m",
+          "bio": "Carrie Fisher was an American actress, writer, and comedian, best known for her role as Princess Leia in the Star Wars saga. She was also an author and a mental health advocate."
+        },
+        {
+          "name": "Billy Dee Williams",
+          "slug": "billy",
+          "image": "actor5.jpg",
+          "character": "Lando Calrissian",
+          "birthdate": "April 6, 1937",
+          "height": "1.83m",
+          "bio": "Billy Dee Williams is an American actor, artist, and singer, best known for his role as Lando Calrissian in the Star Wars franchise. He also appeared in films such as Batman (1989) and many television shows."
+        }
+      ],
+      "comments": [
+  {
+    "title": "A classic that changed cinema forever.",
+    "description": "A New Hope is the film that started it all. It has everything—adventure, memorable characters, great dialogue, and groundbreaking special effects. It's a must-see for any film lover."
+  },
+  {
+    "title": "The foundation of a legendary saga.",
+    "description": "This movie introduced a universe that has captivated audiences for generations. The chemistry between Luke, Leia, and Han is brilliant, and the story is timeless. It's hard to believe how groundbreaking this film was when it first released."
+  },
+  {
+    "title": "A perfect balance of adventure and heart.",
+    "description": "A New Hope is a film that perfectly balances thrilling action with heartfelt moments. The story of a young farm boy dreaming of something bigger resonates with audiences of all ages."
+  },
+  {
+    "title": "A timeless space epic.",
+    "description": "Star Wars: A New Hope remains one of the most iconic films ever made. Its influence on pop culture, the special effects, and the unforgettable characters make it a film that still holds up decades later."
+  },
+  {
+    "title": "The start of a cultural phenomenon.",
+    "description": "A New Hope not only launched a successful franchise but also became a cultural touchstone. The movie’s legacy continues to inspire generations of filmmakers and fans alike."
+  }
+]
+
+    },
+    {
+      "name": "Star Wars: Episode V - The Empire Strikes Back",
+      "slug": "starwars5",
+      "image": "movie5.jpg",
+      "id": 5,
+      "description": "The Rebel Alliance fights back against the Empire, as Luke Skywalker trains with Yoda to become a Jedi, while Han Solo and Leia Organa try to escape the pursuit of Darth Vader.",
+      "time": "2h 4m",
+      "year": "1980",
+      "score": "8.7",
+      "casts": [
+        {
+          "name": "Mark Hamill",
+          "slug": "mark",
+          "image": "actor2.jpg",
+          "character": "Luke Skywalker",
+          "birthdate": "September 25, 1951",
+          "height": "1.75m",
+          "bio": "Mark Hamill's portrayal of Luke Skywalker is iconic, and his performance in Empire Strikes Back is widely regarded as one of his best. The film shows the evolution of Luke from farm boy to Jedi-in-training."
+        },
+        {
+          "name": "Carrie Fisher",
+          "slug": "carrie",
+          "image": "actor4.jpg",
+          "character": "Leia Organa",
+          "birthdate": "October 21, 1956",
+          "height": "1.55m",
+          "bio": "Carrie Fisher was an American actress, author, and screenwriter. Best known for her role as Princess Leia in the Star Wars saga, Fisher was also a talented writer and advocate for mental health."
+        },
+        {
+          "name": "Harrison Ford",
+          "slug": "harrison",
+          "image": "actor3.jpg",
+          "character": "Han Solo",
+          "birthdate": "July 13, 1942",
+          "height": "1.85m",
+          "bio": "Harrison Ford is an American actor and producer, famous for his roles in Star Wars, Indiana Jones, and Blade Runner. He is regarded as one of the greatest action stars in film history."
+        },
+        {
+          "name": "Billy Dee Williams",
+          "slug": "billy",
+          "image": "actor5.jpg",
+          "character": "Lando Calrissian",
+          "birthdate": "April 6, 1937",
+          "height": "1.83m",
+          "bio": "Billy Dee Williams is an American actor, artist, and singer, best known for his role as Lando Calrissian in the Star Wars franchise. He also appeared in films such as Batman (1989) and many television shows."
+        }
+      ],
+      "comments": [
+  {
+    "title": "The best of the original trilogy.",
+    "description": "Empire Strikes Back is the darkest and most mature entry in the original Star Wars trilogy. The film's character development, plot twists, and special effects still hold up to this day."
+  },
+  {
+    "title": "An unforgettable Star Wars experience.",
+    "description": "Empire is regarded as one of the greatest sequels in cinematic history. It pushes the boundaries of the Star Wars universe, with stunning visuals, incredible action, and one of the most memorable plot twists ever."
+  },
+  {
+    "title": "A true masterpiece of storytelling.",
+    "description": "Empire Strikes Back deepens the emotional complexity of its characters and introduces some of the most iconic moments in film history. The direction and performances elevate this sequel to legendary status."
+  },
+  {
+    "title": "The perfect sequel.",
+    "description": "Empire Strikes Back stands as the quintessential example of how a sequel should be done. It expands on the original's universe while adding emotional depth and stakes that elevate the entire saga."
+  }
+]
+
+    },
+     {
+      "name": "Star Wars: Episode VI - Return of the Jedi",
+      "slug": "starwars6",
+      "image": "movie6.jpg",
+      "id": 6,
+      "description": "Luke Skywalker leads a final battle against the evil Empire, trying to destroy the second Death Star, while confronting his father, Darth Vader, and the Emperor.",
+      "time": "2h 11m",
+      "year": "1983",
+      "score": "8.3",
+      "casts": [
+        {
+          "name": "Mark Hamill",
+          "slug": "mark",
+          "image": "actor2.jpg",
+          "character": "Luke Skywalker",
+          "birthdate": "September 25, 1951",
+          "height": "1.75m",
+          "bio": "Mark Hamill’s Luke Skywalker is a legendary character in cinema, and his portrayal of the Jedi hero in Return of the Jedi is widely regarded as the completion of his character’s arc."
+        },
+        {
+          "name": "Carrie Fisher",
+          "slug": "carrie",
+          "image": "actor4.jpg",
+          "character": "Leia Organa",
+          "birthdate": "October 21, 1956",
+          "height": "1.55m",
+          "bio": "Carrie Fisher’s portrayal of Princess Leia remains one of the most iconic characters in film history. Her role in Return of the Jedi showcases her strength and leadership in the face of the Empire’s tyranny."
+        },
+        {
+          "name": "Harrison Ford",
+          "slug": "harrison",
+          "image": "actor3.jpg",
+          "character": "Han Solo",
+          "birthdate": "July 13, 1942",
+          "height": "1.85m",
+          "bio": "Harrison Ford is an American actor and producer, famous for his roles in Star Wars, Indiana Jones, and Blade Runner. He is regarded as one of the greatest action stars in film history."
+        },
+        {
+          "name": "Billy Dee Williams",
+          "slug": "billy",
+          "image": "actor5.jpg",
+          "character": "Lando Calrissian",
+          "birthdate": "April 6, 1937",
+          "height": "1.83m",
+          "bio": "Billy Dee Williams is an American actor, artist, and singer, best known for his role as Lando Calrissian in the Star Wars franchise. He also appeared in films such as Batman (1989) and many television shows."
+        },
+        {
+          "name": "Peter Mayhew",
+          "slug": "peter",
+          "image": "actor6.jpg",
+          "character": "Chewbacca",
+          "birthdate": "May 19, 1944",
+          "height": "2.21m",
+          "bio": "Peter Mayhew was a British-American actor known for portraying the Wookiee Chewbacca in the Star Wars franchise. His towering height and distinct presence brought the beloved character to life."
+        }
+      ],
+      "comments": [
+        {
+          "title": "A satisfying conclusion to the original trilogy.",
+          "description": "Return of the Jedi wraps up the Star Wars saga beautifully, with emotional character arcs, stunning action scenes, and memorable moments that make it an unforgettable part of the trilogy."
+        },
+        {
+          "title": "Perfect closure for the characters.",
+          "description": "The final confrontation between Luke and Darth Vader is both emotional and epic. The return of Han Solo, the redemption of Vader, and the victory over the Empire make this film a worthy conclusion."
+        }
+      ]
+    },
+    {
+      "name": "The Matrix",
+      "slug": "matrix",
+      "image": "matrix.jpg",
+      "id": 7,
+      "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+      "time": "2h 16m",
+      "year": "1999",
+      "score": "8.7",
+      "casts": [
+        {
+          "name": "Keanu Reeves",
+          "slug": "keanu",
+          "image": "keanu.jpg",
+          "character": "Neo",
+          "birthdate": "September 2, 1964",
+          "height": "1.86m",
+          "bio": "Keanu Reeves is a Canadian actor known for his roles in films like The Matrix, John Wick, and Speed. His portrayal of Neo in The Matrix is one of his most iconic performances."
+        },
+        {
+          "name": "Laurence Fishburne",
+          "slug": "laurence",
+          "image": "fishburne.jpg",
+          "character": "Morpheus",
+          "birthdate": "July 30, 1961",
+          "height": "1.84m",
+          "bio": "Laurence Fishburne is an American actor, director, and producer known for his work in The Matrix trilogy, Apocalypse Now, and as the voice of Silver Surfer in animated series."
+        },
+        {
+          "name": "Carrie-Anne Moss",
+          "slug": "carrieanne",
+          "image": "moss.jpg",
+          "character": "Trinity",
+          "birthdate": "August 21, 1967",
+          "height": "1.63m",
+          "bio": "Carrie-Anne Moss is a Canadian actress best known for her role as Trinity in The Matrix trilogy. She has also starred in films like Memento and the Marvel TV series Jessica Jones."
+        }
+      
+      ],
+     "comments": [
+  {
+    "title": "A mind-bending masterpiece.",
+    "description": "The Matrix is a genre-defining sci-fi film that combines philosophy, action, and special effects in a way that had never been done before. Its influence on cinema is undeniable, and it remains a cultural touchstone."
+  },
+  {
+    "title": "Revolutionized the action genre.",
+    "description": "The Matrix is more than just a movie; it's a visual experience. The groundbreaking special effects, particularly the bullet-dodging scene, and the profound themes make it a must-watch for all film lovers."
+  },
+  {
+    "title": "A deep dive into reality and illusion.",
+    "description": "The Matrix challenges our perception of reality, blending action with thought-provoking philosophy. It’s a film that keeps you questioning long after the credits roll."
+  },
+  {
+    "title": "A game-changer in cinematic storytelling.",
+    "description": "The Matrix pushed the boundaries of what was possible in filmmaking, from its visual effects to its conceptual storytelling. It’s a film that set a new standard for sci-fi cinema."
+  }
+]
+
+    },
+    {
+      "name": "Inception",
+      "slug": "inception",
+      "image": "inception.jpg",
+      "id": 8,
+      "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the chance to have his criminal history erased if he can successfully perform an inception.",
+      "time": "2h 28m",
+      "year": "2010",
+      "score": "8.8",
+      "casts": [
+        {
+          "name": "Leonardo DiCaprio",
+          "slug": "leo",
+          "image": "leo.jpg",
+          "character": "Dom Cobb",
+          "birthdate": "November 11, 1974",
+          "height": "1.83m",
+          "bio": "Leonardo DiCaprio is an American actor known for his roles in Titanic, The Revenant, and Inception. His portrayal of Dom Cobb in Inception is one of his most intense and nuanced performances."
+        },
+        {
+          "name": "Joseph Gordon-Levitt",
+          "slug": "joseph",
+          "image": "joseph.jpg",
+          "character": "Arthur",
+          "birthdate": "February 17, 1981",
+          "height": "1.78m",
+          "bio": "Joseph Gordon-Levitt is an American actor and filmmaker, known for his roles in Inception, 500 Days of Summer, and The Dark Knight Rises. His role as Arthur in Inception is one of his most memorable."
+        },
+        {
+          "name": "Elliot Page",
+          "slug": "elliot",
+          "image": "elliot.jpg",
+          "character": "Ariadne",
+          "birthdate": "February 21, 1987",
+          "height": "1.55m",
+          "bio": "Elliot Page is a Canadian actor, best known for their roles in Juno, Inception, and the Netflix series The Umbrella Academy. As Ariadne in Inception, Page brought a brilliant and thoughtful presence to the character."
+        },
+        {
+          "name": "Tom Hardy",
+          "slug": "tom",
+          "image": "tom.jpg",
+          "character": "Eames",
+          "birthdate": "September 15, 1977",
+          "height": "1.75m",
+          "bio": "Tom Hardy is an English actor known for his roles in Inception, Mad Max: Fury Road, and The Dark Knight Rises. His character Eames in Inception is a skilled forger with a flair for deception."
+        },
+        {
+          "name": "Marion Cotillard",
+          "slug": "marion",
+          "image": "marion.jpg",
+          "character": "Mal Cobb",
+          "birthdate": "September 30, 1975",
+          "height": "1.69m",
+          "bio": "Marion Cotillard is a French actress known for her roles in La Vie en Rose, Inception, and The Dark Knight Rises. In Inception, she plays Mal Cobb, the haunting projection of Cobb's subconscious."
+        }
+      ],
+      "comments": [
+  {
+    "title": "A complex and thrilling ride.",
+    "description": "Inception is a film that challenges the mind and keeps you on the edge of your seat. With its intricate plot, stunning visuals, and emotional depth, it's a masterpiece that rewards multiple viewings."
+  },
+  {
+    "title": "Christopher Nolan at his best.",
+    "description": "Inception is a visual and intellectual tour de force. Nolan’s direction, combined with DiCaprio’s performance, makes this a one-of-a-kind film that keeps you guessing until the very end."
+  },
+  {
+    "title": "A masterpiece of storytelling and visuals.",
+    "description": "Inception blends high-stakes action with a thought-provoking narrative. The dream-within-a-dream concept is executed flawlessly, and the film’s conclusion will leave you questioning reality."
+  }
+]
+
+    },
+    {
+      "name": "Interstellar",
+      "slug": "interstellar",
+      "image": "interstellar.jpg",
+      "id": 9,
+      "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity’s survival as Earth faces environmental collapse.",
+      "time": "2h 49m",
+      "year": "2014",
+      "score": "8.6",
+      "casts": [
+        {
+          "name": "Matthew McConaughey",
+          "slug": "matthew",
+          "image": "matthew.jpg",
+          "character": "Cooper",
+          "birthdate": "November 4, 1969",
+          "height": "1.82m",
+          "bio": "Matthew McConaughey is an American actor, known for his work in films such as Interstellar, Dallas Buyers Club, and True Detective. His role as Cooper in Interstellar earned him widespread acclaim."
+        },
+        {
+          "name": "Anne Hathaway",
+          "slug": "anne",
+          "image": "anne.jpg",
+          "character": "Brand",
+          "birthdate": "November 12, 1982",
+          "height": "1.73m",
+          "bio": "Anne Hathaway is an American actress known for her roles in The Princess Diaries, Les Misérables, and Interstellar. Her portrayal of Dr. Brand in Interstellar was praised for its emotional depth."
+        }
+      ],
+    "comments": [
+  {
+    "title": "A visually stunning and emotional journey.",
+    "description": "Interstellar is a visually stunning film that blends science fiction with deep emotional resonance. The performances, especially from McConaughey, and the breathtaking visuals make it one of the best films of the decade."
+  },
+  {
+    "title": "A mind-bending space epic.",
+    "description": "Interstellar explores complex scientific concepts while maintaining an emotional heart at its core. The film is both thought-provoking and visually spectacular, with a score that perfectly complements the narrative."
+  },
+  {
+    "title": "An unforgettable cinematic experience.",
+    "description": "Interstellar pushes the boundaries of science fiction filmmaking, combining an epic space adventure with a deeply emotional story. The stunning visuals, combined with the powerful performances, create a cinematic experience like no other."
+  },
+  {
+    "title": "A philosophical exploration of love and time.",
+    "description": "Interstellar is not just a space film, but a profound exploration of the human experience. It delves into complex themes of love, time, and sacrifice, with breathtaking visuals that make you feel as though you're exploring the stars."
+  },
+  {
+    "title": "An emotional and intellectual masterpiece.",
+    "description": "Interstellar is a film that combines intellectual stimulation with emotional depth. It challenges the mind with its scientific concepts while engaging the heart with its personal, emotional journey of love and sacrifice."
+  }
+]
+
+    },
+    {
+      "name": "The Dark Knight",
+      "slug": "darkknight",
+      "image": "darkknight.jpg",
+      "id": 10,
+      "description": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham, forcing Batman to come out of retirement and fight for justice.",
+      "time": "2h 32m",
+      "year": "2008",
+      "score": "9.0",
+      "casts": [
+        {
+          "name": "Christian Bale",
+          "slug": "christian",
+          "image": "christian.jpg",
+          "character": "Bruce Wayne / Batman",
+          "birthdate": "January 30, 1974",
+          "height": "1.83m",
+          "bio": "Christian Bale is an English actor known for his intense performances in films such as The Dark Knight, American Psycho, and The Fighter. His portrayal of Batman in The Dark Knight trilogy is widely regarded as iconic."
+        },
+        {
+          "name": "Heath Ledger",
+          "slug": "heath",
+          "image": "heath.jpg",
+          "character": "The Joker",
+          "birthdate": "April 4, 1979",
+          "height": "1.87m",
+          "bio": "Heath Ledger’s portrayal of The Joker in The Dark Knight is one of the most iconic performances in cinematic history. His unsettling portrayal of chaos and madness redefined the role of a villain."
+        },
+        {
+          "name": "Aaron Eckhart",
+          "slug": "aaron",
+          "image": "aaron.jpg",
+          "character": "Harvey Dent / Two-Face",
+          "birthdate": "March 12, 1968",
+          "height": "1.85m",
+          "bio": "Aaron Eckhart plays Harvey Dent, the District Attorney of Gotham, in The Dark Knight. His transformation into Two-Face is both tragic and compelling, adding a layer of complexity to the film."
+        }
+      ],
+      "comments": [
+        {
+          "title": "A perfect superhero movie.",
+          "description": "The Dark Knight set a new standard for superhero films with its mature themes, complex characters, and exceptional performances, especially from Heath Ledger as The Joker. It's more than just an action movie—it's a cinematic masterpiece."
+        }
+     
+      ]
+    },
+    {
+      "name": "The Godfather",
+      "slug": "godfather",
+      "image": "godfather.jpg",
+      "id": 11,
+      "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+      "time": "2h 55m",
+      "year": "1972",
+      "score": "9.2",
+      "casts": [
+        {
+          "name": "Marlon Brando",
+          "slug": "brando",
+          "image": "brando.jpg",
+          "character": "Vito Corleone",
+          "birthdate": "April 3, 1924",
+          "height": "1.7m",
+          "bio": "Marlon Brando is widely considered one of the greatest actors in cinematic history. His portrayal of Vito Corleone in The Godfather is one of his most iconic roles."
+        },
+        {
+          "name": "Al Pacino",
+          "slug": "pacino",
+          "image": "pacino.jpg",
+          "character": "Michael Corleone",
+          "birthdate": "April 25, 1940",
+          "height": "1.7m",
+          "bio": "Al Pacino is an American actor and filmmaker, famous for his roles in films like The Godfather, Scarface, and Scent of a Woman. His portrayal of Michael Corleone is iconic."
+        },
+        {
+          "name": "James Caan",
+          "slug": "caan",
+          "image": "caan.jpg",
+          "character": "Sonny Corleone",
+          "birthdate": "March 26, 1940",
+          "height": "1.78m",
+          "bio": "James Caan was an American actor best known for his portrayal of Sonny Corleone in The Godfather. He also starred in films like Misery, Elf, and Thief."
+        }
+      ],
+      "comments": [
+        {
+          "title": "A cinematic masterpiece.",
+          "description": "The Godfather is a defining film in American cinema, known for its complex characters, masterful direction, and unforgettable performances, particularly from Marlon Brando and Al Pacino."
+        },
+        {
+          "title": "Timeless and unforgettable.",
+          "description": "This film set the standard for gangster movies. The Godfather’s narrative depth, combined with brilliant performances, makes it a timeless classic."
+        }
+      ]
+    },
+    {
+      "name": "Pulp Fiction",
+      "slug": "pulpfiction",
+      "image": "pulpfiction.jpg",
+      "id": 12,
+      "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "time": "2h 34m",
+      "year": "1994",
+      "score": "8.9",
+      "casts": [
+        {
+          "name": "John Travolta",
+          "slug": "travolta",
+          "image": "travolta.jpg",
+          "character": "Vincent Vega",
+          "birthdate": "February 18, 1954",
+          "height": "1.88m",
+          "bio": "John Travolta is an American actor and singer, known for his roles in Pulp Fiction, Saturday Night Fever, and Grease. His portrayal of Vincent Vega is one of his most iconic roles."
+        },
+        {
+          "name": "Uma Thurman",
+          "slug": "uma",
+          "image": "uma.jpg",
+          "character": "Mia Wallace",
+          "birthdate": "April 29, 1970",
+          "height": "1.75m",
+          "bio": "Uma Thurman is an American actress and model, best known for her role in Pulp Fiction as Mia Wallace. Her performance in the film is one of her most memorable."
+        },
+        {
+          "name": "Samuel L. Jackson",
+          "slug": "samuel",
+          "image": "samuel.jpg",
+          "character": "Jules Winnfield",
+          "birthdate": "December 21, 1948",
+          "height": "1.92m",
+          "bio": "Samuel L. Jackson is an American actor and producer known for his roles in Pulp Fiction, the Marvel Cinematic Universe, and numerous other films. His portrayal of Jules Winnfield is iconic."
+        },
+        {
+          "name": "Bruce Willis",
+          "slug": "willis",
+          "image": "willis.jpg",
+          "character": "Butch Coolidge",
+          "birthdate": "March 19, 1955",
+          "height": "1.83m",
+          "bio": "Bruce Willis is an American actor, producer, and singer, known for his roles in the Die Hard series, Pulp Fiction, and The Fifth Element. His portrayal of Butch Coolidge in Pulp Fiction is memorable."
+        }
+      ],
+      "comments": [
+  {
+    "title": "A wild ride from start to finish.",
+    "description": "Pulp Fiction is a genre-defining film that mixes black humor, unexpected twists, and unforgettable dialogue. Quentin Tarantino’s masterpiece is one of the most influential films of the '90s."
+  },
+  {
+    "title": "A non-linear masterpiece.",
+    "description": "The way Pulp Fiction tells its story out of order gives it a unique, compelling structure. It's a film that rewards multiple viewings with its witty dialogue, eccentric characters, and dark humor."
+  },
+  {
+    "title": "A bold and unforgettable film.",
+    "description": "Pulp Fiction’s unique storytelling, memorable characters, and sharp dialogue make it an iconic film. Tarantino’s fearless direction and the ensemble cast deliver a one-of-a-kind cinematic experience."
+  },
+  {
+    "title": "A cinematic game-changer.",
+    "description": "Pulp Fiction broke conventional storytelling rules and revolutionized modern cinema. It blends genres, experiments with structure, and delivers unforgettable moments, making it one of the greatest films ever made."
+  }
+]
+
+    },
+    {
+      "name": "Forrest Gump",
+      "slug": "forrestgump",
+      "image": "forrestgump.jpg",
+      "id": 13,
+      "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an extraordinary ability to endure.",
+      "time": "2h 22m",
+      "year": "1994",
+      "score": "8.8",
+      "casts": [
+        {
+          "name": "Tom Hanks",
+          "slug": "hanks",
+          "image": "hanks.jpg",
+          "character": "Forrest Gump",
+          "birthdate": "July 9, 1956",
+          "height": "1.83m",
+          "bio": "Tom Hanks is an American actor known for his roles in Forrest Gump, Cast Away, and Saving Private Ryan. His portrayal of Forrest Gump won him an Academy Award."
+        }
+      ],
+    "comments": [
+  {
+    "title": "An emotional and heartwarming journey.",
+    "description": "Forrest Gump is a beautiful film about life, love, and the power of destiny. Tom Hanks’ performance is nothing short of extraordinary, making it a must-watch for everyone."
+  },
+  {
+    "title": "A timeless classic.",
+    "description": "The film’s exploration of history, fate, and love, combined with Hanks’ remarkable performance, makes Forrest Gump an unforgettable cinematic experience."
+  },
+  {
+    "title": "A story of resilience and heart.",
+    "description": "Forrest Gump teaches us that life is full of surprises and challenges, and how we respond to them can shape our destinies. With a heartwarming story and an iconic performance by Tom Hanks, it’s a film that resonates deeply."
+  }
+]
+
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "slug": "shawshank",
+      "image": "shawshank.jpg",
+      "id": 14,
+      "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "time": "2h 22m",
+      "year": "1994",
+      "score": "9.3",
+      "casts": [
+        {
+          "name": "Tim Robbins",
+          "slug": "timrobbins",
+          "image": "timrobbins.jpg",
+          "character": "Andy Dufresne",
+          "birthdate": "October 16, 1958",
+          "height": "1.96m",
+          "bio": "Tim Robbins is an American actor and filmmaker, best known for his roles in The Shawshank Redemption, Mystic River, and The Player. His role as Andy Dufresne is one of his most memorable performances."
+        },
+        {
+          "name": "Morgan Freeman",
+          "slug": "morganfreeman",
+          "image": "morganfreeman.jpg",
+          "character": "Ellis Redding",
+          "birthdate": "June 1, 1937",
+          "height": "1.88m",
+          "bio": "Morgan Freeman is an American actor and narrator, known for his roles in The Shawshank Redemption, Million Dollar Baby, and Driving Miss Daisy. His voice and performances are highly regarded."
+        }
+      ],
+     "comments": [
+  {
+    "title": "A powerful story of hope and friendship.",
+    "description": "The Shawshank Redemption is one of the most inspiring films of all time. It’s a powerful tale of redemption and friendship, with unforgettable performances by Tim Robbins and Morgan Freeman."
+  },
+  {
+    "title": "A timeless masterpiece.",
+    "description": "This film is a testament to the resilience of the human spirit. The bond between Andy and Red, and their shared hope, is beautifully portrayed and deeply moving."
+  },
+  {
+    "title": "A journey of transformation and hope.",
+    "description": "The Shawshank Redemption is more than just a prison drama; it’s a profound story about the power of hope and the strength to overcome adversity. It’s a film that stays with you long after it ends."
+  }
+]
+
+    },
+    {
+      "name": "Gladiator",
+      "slug": "gladiator",
+      "image": "gladiator.jpg",
+      "id": 15,
+      "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "time": "2h 35m",
+      "year": "2000",
+      "score": "8.5",
+      "casts": [
+        {
+          "name": "Russell Crowe",
+          "slug": "crowe",
+          "image": "crowe.jpg",
+          "character": "Maximus",
+          "birthdate": "April 7, 1964",
+          "height": "1.88m",
+          "bio": "Russell Crowe is an Australian actor known for his roles in Gladiator, A Beautiful Mind, and Les Misérables. His portrayal of Maximus in Gladiator won him an Academy Award."
+        },
+        {
+          "name": "Joaquin Phoenix",
+          "slug": "phoenix",
+          "image": "phoenix.jpg",
+          "character": "Commodus",
+          "birthdate": "October 28, 1974",
+          "height": "1.75m",
+          "bio": "Joaquin Phoenix is an American actor known for his roles in Gladiator, Joker, and Her. His portrayal of Commodus in Gladiator earned him critical acclaim."
+        },
+        {
+          "name": "Connie Nielsen",
+          "slug": "nielsen",
+          "image": "nielsen.jpg",
+          "character": "Lucilla",
+          "birthdate": "July 3, 1965",
+          "height": "1.75m",
+          "bio": "Connie Nielsen is a Danish actress known for her roles in Gladiator, Wonder Woman, and The Devil's Advocate. In Gladiator, she portrays Lucilla, the sister of Commodus and love interest of Maximus."
+        }
+      ],
+     "comments": [
+  {
+    "title": "An epic tale of revenge and redemption.",
+    "description": "Gladiator is a powerful film about betrayal, vengeance, and redemption. With unforgettable performances and incredible action scenes, it remains one of the best films of the 2000s."
+  },
+  {
+    "title": "A breathtaking epic.",
+    "description": "Gladiator is a timeless epic that showcases the power of vengeance, loyalty, and honor. Russell Crowe’s performance as Maximus is one of his best, and the action scenes are intense and unforgettable."
+  },
+  {
+    "title": "A masterclass in storytelling and action.",
+    "description": "Gladiator combines emotional depth with thrilling action, creating a film that’s as gripping as it is powerful. The revenge-driven plot is matched by stellar performances, particularly from Russell Crowe."
+  },
+  {
+    "title": "A captivating journey of power and honor.",
+    "description": "Gladiator’s portrayal of power, betrayal, and honor creates a gripping narrative that pulls you into Maximus’ journey. The grandeur of the sets and the intensity of the battle scenes make it a truly unforgettable experience."
+  }
+]
+
+    },
+   
+    {
+      "name": "The Lion King",
+      "slug": "lionking",
+      "image": "lionking.jpg",
+      "id": 16,
+      "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+      "time": "1h 28m",
+      "year": "1994",
+      "score": "8.5",
+      "casts": [
+        {
+          "name": "Matthew Broderick",
+          "slug": "broderick",
+          "image": "matthew.jpg",
+          "character": "Simba (Adult)",
+          "birthdate": "March 21, 1962",
+          "height": "1.73m",
+          "bio": "Matthew Broderick is an American actor, known for his roles in Ferris Bueller’s Day Off, The Producers, and The Lion King. He voiced the adult Simba in the animated classic."
+        },
+        {
+          "name": "James Earl Jones",
+          "slug": "jones",
+          "image": "james.jpg",
+          "character": "Mufasa",
+          "birthdate": "January 17, 1931",
+          "height": "1.83m",
+          "bio": "James Earl Jones is an American actor and voice artist, best known for his iconic voice roles as Darth Vader in Star Wars and Mufasa in The Lion King."
+        },
+        {
+          "name": "Jeremy Irons",
+          "slug": "irons",
+          "image": "irons.jpg",
+          "character": "Scar",
+          "birthdate": "September 19, 1948",
+          "height": "1.83m",
+          "bio": "Jeremy Irons is an English actor known for his roles in The Lion King, Reversal of Fortune, and Die Hard with a Vengeance. He voiced Scar in the original animated film."
+        },
+        {
+          "name": "Whoopi Goldberg",
+          "slug": "goldberg",
+          "image": "whoopi.jpg",
+          "character": "Shenzi",
+          "birthdate": "November 13, 1955",
+          "height": "1.65m",
+          "bio": "Whoopi Goldberg is an American actress, comedian, and television personality. She voiced Shenzi, the leader of the hyenas, in The Lion King, and is known for her work in Ghost and Sister Act."
+        }
+      ],
+  "comments": [
+  {
+    "title": "A Disney classic.",
+    "description": "The Lion King is an emotional, heartwarming film that remains one of Disney’s finest. The animation, music, and voice acting are top-notch, making it a timeless classic."
+  },
+  {
+    "title": "A beautiful story of family and destiny.",
+    "description": "The Lion King’s stunning animation, incredible soundtrack, and timeless message about life and legacy have made it a beloved movie for generations."
+  },
+  {
+    "title": "A powerful tale of courage and growth.",
+    "description": "The Lion King teaches powerful life lessons about responsibility, courage, and the circle of life. Its emotional depth and unforgettable characters make it one of Disney’s best films."
+  },
+  {
+    "title": "An unforgettable journey through the African savanna.",
+    "description": "The Lion King’s rich animation and memorable music create an immersive experience that transports viewers to the heart of the African savanna. It’s a film full of emotion, adventure, and heart."
+  },
+  {
+    "title": "A masterpiece of animation and storytelling.",
+    "description": "The Lion King is a perfect blend of beautiful animation, epic storytelling, and music that stands the test of time. It’s a story about overcoming adversity and embracing one’s destiny, making it a must-watch for all ages."
+  }
+]
+
+    },
+    {
+      "name": "Avatar",
+      "slug": "avatar",
+      "image": "avatar.jpg",
+      "id": 17,
+      "description": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "time": "2h 42m",
+      "year": "2009",
+      "score": "7.8",
+      "casts": [
+        {
+          "name": "Sam Worthington",
+          "slug": "worthington",
+          "image": "sam.jpg",
+          "character": "Jake Sully",
+          "birthdate": "August 2, 1976",
+          "height": "1.83m",
+          "bio": "Sam Worthington is an Australian actor, best known for his role as Jake Sully in James Cameron’s Avatar. He has also appeared in films like Clash of the Titans and Terminator Salvation."
+        },
+        {
+          "name": "Zoe Saldana",
+          "slug": "saldana",
+          "image": "zoe.jpg",
+          "character": "Neytiri",
+          "birthdate": "June 19, 1978",
+          "height": "1.7m",
+          "bio": "Zoe Saldana is an American actress known for her roles in Avatar, Guardians of the Galaxy, and Star Trek. Her portrayal of Neytiri in Avatar was widely praised."
+        },
+        {
+          "name": "Sigourney Weaver",
+          "slug": "weaver",
+          "image": "sigourney.jpg",
+          "character": "Dr. Grace Augustine",
+          "birthdate": "October 8, 1949",
+          "height": "1.82m",
+          "bio": "Sigourney Weaver is an American actress, best known for her roles in Alien, Avatar, and Gorillas in the Mist. She portrayed Dr. Grace Augustine in Avatar."
+        },
+        {
+          "name": "Stephen Lang",
+          "slug": "lang",
+          "image": "stephen.jpg",
+          "character": "Colonel Miles Quaritch",
+          "birthdate": "July 11, 1952",
+          "height": "1.88m",
+          "bio": "Stephen Lang is an American actor, known for his roles in Avatar, Don’t Breathe, and Tombstone. He portrayed Colonel Miles Quaritch in Avatar."
+        },
+        {
+          "name": "Michelle Rodriguez",
+          "slug": "rodriguez",
+          "image": "michelle.jpg",
+          "character": "Trudy Chacón",
+          "birthdate": "July 12, 1978",
+          "height": "1.65m",
+          "bio": "Michelle Rodriguez is an American actress, known for her roles in Fast & Furious, Resident Evil, and Avatar. She played Trudy Chacón, a combat pilot in Avatar."
+        }
+      ],
+      "comments": [
+        {
+          "title": "Visually stunning and immersive.",
+          "description": "Avatar’s groundbreaking visuals and world-building set a new standard for 3D cinema. Its environmental message and epic storyline are equally impressive."
+        },
+        {
+          "title": "A revolutionary cinematic experience.",
+          "description": "Avatar is a stunning visual spectacle that transports audiences to the alien world of Pandora. James Cameron’s direction and the groundbreaking technology used make this a film to remember."
+        }
+      ]
+    },
+    {
+      "name": "Schindler's List",
+      "slug": "schindlerslist",
+      "image": "schindlerslist.jpg",
+      "id": 18,
+      "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+      "time": "3h 15m",
+      "year": "1993",
+      "score": "9.0",
+      "casts": [
+        {
+          "name": "Liam Neeson",
+          "slug": "neeson",
+          "image": "liam.jpg",
+          "character": "Oskar Schindler",
+          "birthdate": "June 7, 1952",
+          "height": "1.93m",
+          "bio": "Liam Neeson is a Northern Irish actor, known for his roles in Schindler's List, Taken, and Michael Collins. His portrayal of Oskar Schindler in this film earned him international acclaim."
+        },
+        {
+          "name": "Ben Kingsley",
+          "slug": "kingsley",
+          "image": "ben.jpg",
+          "character": "Itzhak Stern",
+          "birthdate": "December 31, 1943",
+          "height": "1.75m",
+          "bio": "Ben Kingsley is an English actor known for his roles in Schindler's List, Gandhi, and Iron Man 3. His performance as Itzhak Stern in Schindler's List was pivotal to the film’s emotional impact."
+        }
+      ],
+      "comments": [
+        {
+          "title": "A masterpiece of cinema.",
+          "description": "Schindler's List is an emotional, powerful film that tells a crucial story of the Holocaust. Steven Spielberg’s direction, combined with remarkable performances, makes it one of the most important films ever made."
+        }
+      ]
+    }
+  ]
+}
