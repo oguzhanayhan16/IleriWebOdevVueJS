@@ -17,7 +17,7 @@
             <div class="stars">
               <div class="stars-in"> </div>
             </div>
-            <span class="comments">{{  movie.comments.length  }}</span> </div>
+            <span class="comments" style="color:white">{{  movie.comments.length  }}</span> </div>
      
         </div>
         </router-link>
